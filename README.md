@@ -1,2 +1,2 @@
 # Notes
-MVVM Notes App.
+A Notes App using MVVM Architecture.
